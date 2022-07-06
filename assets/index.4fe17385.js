@@ -809,7 +809,7 @@ function ae() {
             className: "radioContainer",
             children: [e("div", {
                 className: "logo",
-                children: "Ki\u1EC1u's music "
+                children: "S\u01A0N's music "
             }), e("div", {
                 className: "subHeading"
             }), e("div", {
@@ -897,7 +897,7 @@ const ie = () => {
         const [h, i] = c.exports.useState(""), [v, s] = c.exports.useState(!1), [n, t] = c.exports.useState(""), m = w => {
             i(w.target.value), console.log(w.target.value)
         }, o = () => {
-            h === "11040209" ? (s(!1), t("/music")) : h !== "11040209" && (s(!0), t(""))
+            h === "291104" ? (s(!1), t("/music")) : h !== "291104" && (s(!0), t(""))
         };
         return a("div", {
             children: [e("div", {
@@ -906,7 +906,7 @@ const ie = () => {
                     className: "videoContainer2",
                     children: e(N, {
                         className: "react-player",
-                        url: "//www.youtube.com/embed/oFm6rbA5BD8?autoplay=1&mute=1&start=26",
+                        url: "//www.youtube.com/embed/on9BTX6dHN0?autoplay=1&mute=1&start=26",
                         width: "100%",
                         height: "100%",
                         position: "relative",
@@ -923,10 +923,10 @@ const ie = () => {
                     className: "fa-solid fa-heart heroLogo"
                 }), e("h1", {
                     className: "tracking-in-expand-fwd",
-                    children: "Ph\u1EA1m Th\u1ECB M\u1EF9 Ki\u1EC1u"
+                    children: "Nguy\u1EC5n Quang S\u01A1n"
                 }), e("h3", {
                     className: "subTitle",
-                    children: "Trang wed n\u00E0y \u0111\u01B0\u1EE3c t\u1EA1o ra b\u1EDFi s\u1EF1 y\u00EAu th\u01B0\u01A1ng"
+                    children: "Trang web n\u00E0y \u0111\u01B0\u1EE3c t\u1EA1o ra d\u00E0nh ri\u00EAng cho anh"
                 }), e("div", {
                     className: "subPassword",
                     children: "Mật khẩu"
@@ -942,7 +942,7 @@ const ie = () => {
                     }
                 }), e("div", {
                     className: I(v === !0 ? "checkPass" : "d-none"),
-                    children: "S\u1ED1 tr\u00EAn c\u1ED5 tay anh \u00E1"
+                    children: "Anh suy ngh\u0129 k\u0129 l\u1EA1i \u0111i"
                 }), e("div", {
                     class: "note-position-1 note-amination",
                     children: "♫"
