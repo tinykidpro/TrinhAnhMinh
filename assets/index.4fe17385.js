@@ -923,10 +923,10 @@ const ie = () => {
                     className: "fa-solid fa-heart heroLogo"
                 }), e("h1", {
                     className: "tracking-in-expand-fwd",
-                    children: "To My Beloved Teresa L\00EA"
+                    children: "To My Beloved Teresa Lê"
                 }), e("h3", {
                     className: "subTitle",
-                    children: "This web is created by Bông to help B's all time favourite snack Th\01B0 L\00EA relax and chill"
+                    children: "This web is created by Bông to help Bông's all time favourite snack Thư Lê relax and chill"
                 }), e("div", {
                     className: "subPassword",
                     children: "Mật khẩu"
