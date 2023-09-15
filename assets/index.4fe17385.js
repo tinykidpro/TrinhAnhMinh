@@ -906,7 +906,7 @@ const ie = () => {
                     className: "videoContainer2",
                     children: e(N, {
                         className: "react-player",
-                        url: "//www.youtube.com/embed/on9BTX6dHN0?autoplay=1&mute=1&start=26",
+                        url: "//www.youtube.com/embed/9FvvbVI5rYA?autoplay=1&mute=1&start=221",
                         width: "100%",
                         height: "100%",
                         position: "relative",
