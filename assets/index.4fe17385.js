@@ -809,7 +809,7 @@ function ae() {
             className: "radioContainer",
             children: [e("div", {
                 className: "logo",
-                children: "S\u01A0N's music "
+                children: "Teresa and Bong 's Hub"
             }), e("div", {
                 className: "subHeading"
             }), e("div", {
