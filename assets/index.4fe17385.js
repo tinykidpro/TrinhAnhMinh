@@ -473,7 +473,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Ambient Renders"]
+            }), "C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"]
         })
     }), e(l.div, {
         animate: {
@@ -495,7 +495,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Anime Vibe"]
+            }), "\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"]
         })
     }), e(l.div, {
         animate: {
@@ -517,7 +517,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Astral Throb"]
+            }), "H\u1EB9n m\u1ED9t mai"]
         })
     }), e(l.div, {
         animate: {
@@ -539,7 +539,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "ChillHop Music"]
+            }), "G\u00E1c l\u1EA1i \u00E2u lo"]
         })
     }), e(l.div, {
         animate: {
@@ -561,7 +561,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Chilled Cow"]
+            }), "C\u00F3 Em Ch\u1EDD"]
         })
     }), e(l.div, {
         animate: {
@@ -583,7 +583,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Ivy Records"]
+            }), "L\u1EA1c v\u00E0o trong m\u01A1"]
         })
     }), e(l.div, {
         animate: {
@@ -605,7 +605,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "H5G1 Music"]
+            }), "Ch\u1EC9 mu\u1ED1n b\u00EAn em th\u1EADt g\u1EA7n"]
         })
     }), e(l.div, {
         animate: {
@@ -628,7 +628,7 @@ const $ = ({
                 src: g,
                 alt: ""
             }), e("span", {
-                children: " Lofi Girl "
+                children: "Anh \u0111\u00E1nh r\u01A1i ng\u01B0\u1EDDi y\u00EAu n\u00E0y"
             })]
         })
     }), e(l.div, {
@@ -652,7 +652,7 @@ const $ = ({
                 src: g,
                 alt: ""
             }), e("span", {
-                children: " Nice Guys "
+                children: "Sao anh ch\u01B0a v\u1EC1"
             })]
         })
     }), e(l.div, {
@@ -675,7 +675,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Spinnin Records"]
+            }), "M\u1EB7t tr\u1EDDi c\u1EE7a em"]
         })
     }), e(l.div, {
         animate: {
@@ -697,7 +697,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "DNA Fixing"]
+            }), "\u0110\u00E3 l\u1EE1 y\u00EAu em nhi\u1EC1u"]
         })
     }), e(l.div, {
         animate: {
@@ -719,7 +719,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "The Jazz Caf\xE9"]
+            }), "Qu\u1EB1ng l\u1EAFm em \u01A1i"]
         })
     })]
 });
@@ -795,14 +795,14 @@ const te = ({
 var p = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVRoge3aQQqDQBBE0Vp59Zh7ZpJjGAKubAoLUVrIf9BLe1D/TiXc1yTpKektadmZIWler+naW8zBAdv5XdO1t0ie0HY+jXuL5eB07S24AYM3kCIhg4RSJGSQUIqEDBJKkZBBQikSMkgoRUIGCaVIyCChFAkZJJQiIYOEUiRkkFCKhAwS+puExoFDXo17T/kg/WjcW0zrYeOCXw2u2At1+AL6aLqb6eIX8gAAAABJRU5ErkJggg==";
 
 function ae() {
-    const [h, i] = c.exports.useState("PlayPause"), [v, s] = c.exports.useState("playBtn"), [n, t] = c.exports.useState(g), [m, o] = c.exports.useState(!1), [w, r] = c.exports.useState("pauseScreen"), [B, A] = c.exports.useState("https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl"), [C, u] = c.exports.useState("LofiGirl"), [f, d] = c.exports.useState(""), b = T => {
+    const [h, i] = c.exports.useState("PlayPause"), [v, s] = c.exports.useState("playBtn"), [n, t] = c.exports.useState(g), [m, o] = c.exports.useState(!1), [w, r] = c.exports.useState("pauseScreen"), [B, A] = c.exports.useState("https://www.youtube.com/watch?v=14L5Y5q9XPo"), [C, u] = c.exports.useState("See Tình"), [f, d] = c.exports.useState(""), b = T => {
         let S = T.target.className;
         S === "PlayPause" || S === "playBtn" ? (t(p), i("PlayPause2"), s("playBtn2"), F()) : (S === "PlayPause2" || S === "playBtn2") && (t(g), i("PlayPause"), s("playBtn"), P())
     }, F = () => {
         o(!1), o(!0), r("unpauseScreen")
     }, P = () => {
         r("pauseScreen"), o(!1)
-    }, [H, y] = c.exports.useState("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=1");
+    }, [H, y] = c.exports.useState("//www.youtube.com/embed/KV84w_QTO18?autoplay=1&mute=1&start=30");
     return a("div", {
         className: "interfaceContainer",
         children: [a("div", {
@@ -816,40 +816,40 @@ function ae() {
                 className: "radioStationsContainer",
                 children: e($, {
                     Ambient: () => {
-                        y("//www.youtube.com/embed/hBGbt2CRDpA?autoplay=1&mute=1&start=1"), u("Ambient Renders"), d("https://www.youtube.com/channel/UCXbXfisDHV_gDjawCKTyTIw"), A("https://www.youtube.com/watch?v=GlEps1Ra06U&ab_channel=RelaxingAmbienceASMR"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/CwJIv4jgUlk?autoplay=1&mute=1&start=15"), u("C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"), d("https://www.youtube.com/watch?v=5V6bHm1pklA"), A("https://www.youtube.com/watch?v=NCiKdUDdm-g&ab_channel=UCSNZOb1QqDmHakYGRLAY1vw"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Anime: () => {
-                        y("//www.youtube.com/embed/5B7Rsw0L2r8?autoplay=1&mute=1&start=0"), u("AnimeVibe"), d("https://www.youtube.com/c/AnimeVibe"), A("https://www.youtube.com/watch?v=WDXPJWIgX-o&ab_channel=nostalgic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/CjROPg3QJ7w?autoplay=1&mute=1&start=100"), u("\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"), d("https://www.youtube.com/watch?v=NlrYe__kDvE"), A("https://www.youtube.com/watch?v=qzghv7F3IlE&ab_channel=UCNzuR-0UXyAwDmllwE28g1Q"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Astral: () => {
-                        y("//www.youtube.com/embed/RJcIzUNKSQk?autoplay=1&mute=1&start=1"), u("Astral Throb"), d("https://www.youtube.com/c/AstralThrob"), A("https://www.youtube.com/watch?v=UedTcufyrHc&ab_channel=NightrideFM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/_ITiwPMUzho?autoplay=1&mute=1&start=5"), u("H\u1EB9n m\u1ED9t mai"), d("https://www.youtube.com/watch?v=UVmWLJVMBa8"), A("https://www.youtube.com/watch?v=c3Y2VA-VHZM&ab_channel=NamNguyen95"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     ChillHop: () => {
-                        y("//www.youtube.com/embed/iEGFFyv0MH4?autoplay=1&mute=1&start=1"), u("ChillHop Music"), d("https://www.youtube.com/c/Chillhopdotcom/videos"), A("https://www.youtube.com/watch?v=7NOSDKb0HlU&ab_channel=ChillhopMusic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/qlXoh54zock?autoplay=1&mute=1&start=13"), u("G\u00E1c l\u1EA1i \u00E2u lo"), d("https://www.youtube.com/watch?v=ECxVfrwwTp0"), A("https://www.youtube.com/watch?v=jPCBNH2w3QU&ab_channel=UCICL_FtWS2GuaUxj8uwU2HA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Cow: () => {
-                        y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=1"), u("Chilled Cow"), d("https://www.youtube.com/c/LofiGirl"), A("https://www.youtube.com/watch?v=DWcJFNfaw9c&ab_channel=LofiGirl"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=20"), u("C\u00F3 Em Ch\u1EDD"), d("https://www.youtube.com/watch?v=_YzngEllRgM"), A("https://www.youtube.com/watch?v=_YzngEllRgM&ab_channel=UCLFOZcEUPlwdc02FHkOpqkA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Spinnin: () => {
-                        y("//www.youtube.com/embed/N65Jb683pXQ?autoplay=1&mute=1&start=0"), u("Spinnin' Records"), d("https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA"), A("https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/DbuebKNKQsQ?autoplay=1&mute=1&start=32"), u("M\u1EB7t tr\u1EDDi c\u1EE7a em"), d("https://www.youtube.com/watch?v=t0WFOnwp3MM"), A("https://www.youtube.com/watch?v=vQbIv7upeUg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Ivy: () => {
-                        y("//www.youtube.com/embed/F1B9Fk_SgI0?autoplay=1&mute=1&start=10"), u("Ivy Records"), d("https://www.youtube.com/channel/UCv7qaGzuEfLhKxAZf4eZONg"), A("https://www.youtube.com/watch?v=aLqc8TdoLJ0"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/F1B9Fk_SgI0?autoplay=1&mute=1&start=10"), u("L\u1EA1c v\u00E0o trong m\u01A1"), d("https://www.youtube.com/watch?v=S4g2uiFyWJc"), A("https://www.youtube.com/watch?v=q8uhw7A4aVg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     High: () => {
-                        y("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1"), u("H5G1 Music"), d("https://www.youtube.com/channel/UCIPy2w-XdvaU73L3nAK1-0g"), A("https://www.youtube.com/watch?v=-9gEgshJUuY&ab_channel=lofigeek"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1"), u("Ch\u1EC9 mu\u1ED1n b\u00EAn em th\u1EADt g\u1EA7n"), d("https://www.youtube.com/watch?v=Mwj02MxLlBU"), A("https://www.youtube.com/watch?v=Ksw9EjuBBWQ"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Lofi: () => {
-                        y("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=1"), u("LofiGirl"), d("https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow"), A("https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=20"), u("Anh \u0111\u00E1nh r\u01A1i ng\u01B0\u1EDDi y\u00EAu n\u00E0y"), d("https://www.youtube.com/watch?v=I3RICWXA_3U"), A("https://www.youtube.com/watch?v=w5WCI3NvQ8w"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Study: () => {
-                        y("//www.youtube.com/embed/V3SLbo4s8FM?autoplay=1&mute=1&start=15"), u("DNA Fixing"), d("https://www.youtube.com/channel/UCKA8nI3JBYpWqx2HiiEssNw"), A("https://www.youtube.com/watch?v=iyOKWzlyEjE&ab_channel=PeacefulNightMusic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/V3SLbo4s8FM?autoplay=1&mute=1&start=30"), u("\u0110\u00E3 l\u1EE1 y\u00EAu em nhi\u1EC1u"), d("https://www.youtube.com/watch?v=KhTCatAKVpk"), A("https://www.youtube.com/watch?v=ubpcDnfr4ec"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Jazz: () => {
-                        y("//www.youtube.com/embed/U8HBZOTZrf0?autoplay=1&mute=1&start=1"), u("theJazz Cafe"), d("https://www.youtube.com/c/TheJazzHopCaf%C3%A9"), A("https://www.youtube.com/watch?v=-5KAN9_CzSA&ab_channel=STEEZYASFUCK"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/U8HBZOTZrf0?autoplay=1&mute=1&start=15"), u("Qu\u1EB1ng l\u1EAFm em \u01A1i"), d("https://www.youtube.com/watch?v=5KcBGdXCfP8"), A("https://www.youtube.com/watch?v=XnFOqLeL0zM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Nice: () => {
-                        y("//www.youtube.com/embed/3n1aC2TYXIA?autoplay=1&mute=1&start=1"), u("Nice Guys"), d("https://www.youtube.com/channel/UCMmt12UKW571UWtJAgWkWqg"), A("https://www.youtube.com/watch?v=oVi5gtzTDx0&ab_channel=NiceGuys"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/_GWyf-35QHI?autoplay=1&mute=1&start=20"), u("Sao anh ch\u01B0a v\u1EC1"), d("https://www.youtube.com/watch?v=RlBkvjVss-s"), A("https://www.youtube.com/watch?v=qmntxW5kcPI"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     }
                 })
             })]
@@ -897,7 +897,7 @@ const ie = () => {
         const [h, i] = c.exports.useState(""), [v, s] = c.exports.useState(!1), [n, t] = c.exports.useState(""), m = w => {
             i(w.target.value), console.log(w.target.value)
         }, o = () => {
-            h === "291104" ? (s(!1), t("/music")) : h !== "291104" && (s(!0), t(""))
+            h === "09102006" ? (s(!1), t("/music")) : h !== "09102006" && (s(!0), t(""))
         };
         return a("div", {
             children: [e("div", {
@@ -923,10 +923,10 @@ const ie = () => {
                     className: "fa-solid fa-heart heroLogo"
                 }), e("h1", {
                     className: "tracking-in-expand-fwd",
-                    children: "Nguy\u1EC5n Quang S\u01A1n"
+                    children: "To My Beloved Teresa L\00EA"
                 }), e("h3", {
                     className: "subTitle",
-                    children: "Trang web n\u00E0y \u0111\u01B0\u1EE3c t\u1EA1o ra d\u00E0nh ri\u00EAng cho anh"
+                    children: "This web is created by Bông to help B's all time favourite snack Th\01B0 L\00EA relax and chill"
                 }), e("div", {
                     className: "subPassword",
                     children: "Mật khẩu"
@@ -942,7 +942,7 @@ const ie = () => {
                     }
                 }), e("div", {
                     className: I(v === !0 ? "checkPass" : "d-none"),
-                    children: "Anh suy ngh\u0129 k\u0129 l\u1EA1i \u0111i"
+                    children: "this web is not created for youu, go awayy"
                 }), e("div", {
                     class: "note-position-1 note-amination",
                     children: "♫"
@@ -965,7 +965,7 @@ const ie = () => {
                         children: a("button", {
                             class: "button",
                             onClick: () => o(),
-                            children: ["B\u1EA5m v\xE0o \u0111\xE2y \u0111\u1EC3 nghe n\xE8 ", e("i", {
+                            children: ["Click here to listen to our fav songs!", e("i", {
                                 class: "fa-solid fa-heart"
                             })]
                         })
