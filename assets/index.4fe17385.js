@@ -816,34 +816,34 @@ function ae() {
                 className: "radioStationsContainer",
                 children: e($, {
                     Ambient: () => {
-                        y("//www.youtube.com/embed/CwJIv4jgUlk?autoplay=1&mute=1&start=15"), u("C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"), d("https://www.youtube.com/watch?v=9-OCzaTMPF0"), A("https://www.youtube.com/watch?v=9-OCzaTMPF0&ab_channel=khiphaiquendi247"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/CwJIv4jgUlk?autoplay=1&mute=1&start=15"), u("Call Me - Wren Evans, itsnk"), d("https://www.youtube.com/watch?v=WRCoRYtiDDQ"), A("https://www.youtube.com/watch?v=WRCoRYtiDDQ&ab_channel=UCtpX-hGGBtH2ZvVX9_5RwFg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Anime: () => {
-                        y("//www.youtube.com/embed/CjROPg3QJ7w?autoplay=1&mute=1&start=100"), u("\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"), d("https://www.youtube.com/watch?v=NlrYe__kDvE"), A("https://www.youtube.com/watch?v=qzghv7F3IlE&ab_channel=UCNzuR-0UXyAwDmllwE28g1Q"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/CjROPg3QJ7w?autoplay=1&mute=1&start=100"), u("K. - Cigarettes After Sex"), d("https://www.youtube.com/watch?v=L4sbDxR22z4"), A("https://www.youtube.com/watch?v=L4sbDxR22z4&ab_channel=UCqNxhPZoLJ81i5QaK4nqn8A"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Astral: () => {
-                        y("//www.youtube.com/embed/_ITiwPMUzho?autoplay=1&mute=1&start=5"), u("H\u1EB9n m\u1ED9t mai"), d("https://www.youtube.com/watch?v=UVmWLJVMBa8"), A("https://www.youtube.com/watch?v=c3Y2VA-VHZM&ab_channel=NamNguyen95"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/_ITiwPMUzho?autoplay=1&mute=1&start=5"), u("All to myself - Johnny Stimson"), d("https://www.youtube.com/watch?v=SmGHZTTAAK0"), A("https://www.youtube.com/watch?v=SmGHZTTAAK0&ab_channel=UCH5d2bpWBVu6eQk1amUSpyA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     ChillHop: () => {
-                        y("//www.youtube.com/embed/qlXoh54zock?autoplay=1&mute=1&start=13"), u("G\u00E1c l\u1EA1i \u00E2u lo"), d("https://www.youtube.com/watch?v=ECxVfrwwTp0"), A("https://www.youtube.com/watch?v=jPCBNH2w3QU&ab_channel=UCICL_FtWS2GuaUxj8uwU2HA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/qlXoh54zock?autoplay=1&mute=1&start=13"), u("I don't wanna live forever - Zayn, Taylor Swift"), d("https://www.youtube.com/watch?v=7F37r50VUTQ"), A("https://www.youtube.com/watch?v=7F37r50VUTQ&ab_channel=UCqECaJ8Gagnn7YCbPEzWH6g"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Cow: () => {
-                        y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=20"), u("C\u00F3 Em Ch\u1EDD"), d("https://www.youtube.com/watch?v=_YzngEllRgM"), A("https://www.youtube.com/watch?v=_YzngEllRgM&ab_channel=UCLFOZcEUPlwdc02FHkOpqkA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=20"), u("City of Stars - Ryan Gosling, Emma Stone"), d("https://www.youtube.com/watch?v=GTWqwSNQCcg"), A("https://www.youtube.com/watch?v=GTWqwSNQCcg&ab_channel=InterscopeGeffenAM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Spinnin: () => {
-                        y("//www.youtube.com/embed/DbuebKNKQsQ?autoplay=1&mute=1&start=32"), u("M\u1EB7t tr\u1EDDi c\u1EE7a em"), d("https://www.youtube.com/watch?v=t0WFOnwp3MM"), A("https://www.youtube.com/watch?v=vQbIv7upeUg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/DbuebKNKQsQ?autoplay=1&mute=1&start=32"), u("Misty - Ella Fitzgerald"), d("https://www.youtube.com/watch?v=nevO8YwaPho"), A("https://www.youtube.com/watch?v=nevO8YwaPho&ab_channel=allasone2301"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Ivy: () => {
-                        y("//www.youtube.com/embed/F1B9Fk_SgI0?autoplay=1&mute=1&start=10"), u("L\u1EA1c v\u00E0o trong m\u01A1"), d("https://www.youtube.com/watch?v=S4g2uiFyWJc"), A("https://www.youtube.com/watch?v=q8uhw7A4aVg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/F1B9Fk_SgI0?autoplay=1&mute=1&start=10"), u("Sleep Walk - Santo and Johnny"), d("https://www.youtube.com/watch?v=YBRCvVpknvg"), A("https://www.youtube.com/watch?v=YBRCvVpknvg&ab_channel=OfficialMusicHome"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     High: () => {
-                        y("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1"), u("Ch\u1EC9 mu\u1ED1n b\u00EAn em th\u1EADt g\u1EA7n"), d("https://www.youtube.com/watch?v=Mwj02MxLlBU"), A("https://www.youtube.com/watch?v=Ksw9EjuBBWQ"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1"), u("I Love You 3000 - Stephanie Poetri"), d("https://www.youtube.com/watch?v=cPkE0IbDVs4"), A("https://www.youtube.com/watch?v=cPkE0IbDVs4&ab_channel=UCvk7b1Ydbaq3x3dCuSkdfHQ"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Lofi: () => {
-                        y("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=20"), u("Anh \u0111\u00E1nh r\u01A1i ng\u01B0\u1EDDi y\u00EAu n\u00E0y"), d("https://www.youtube.com/watch?v=I3RICWXA_3U"), A("https://www.youtube.com/watch?v=w5WCI3NvQ8w"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=20"), u("Losing Interest - Shiloh Dynasty"), d("https://www.youtube.com/watch?v=HC6xx-GxlUY"), A("https://www.youtube.com/watch?v=HC6xx-GxlUY&ab_channel=AuroraVibes"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Study: () => {
-                        y("//www.youtube.com/embed/V3SLbo4s8FM?autoplay=1&mute=1&start=30"), u("\u0110\u00E3 l\u1EE1 y\u00EAu em nhi\u1EC1u"), d("https://www.youtube.com/watch?v=KhTCatAKVpk"), A("https://www.youtube.com/watch?v=ubpcDnfr4ec"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/V3SLbo4s8FM?autoplay=1&mute=1&start=30"), u("Hesitation - Kapa Boy, Shiloh Dynasty"), d("https://www.youtube.com/watch?v=4tIECmdu_Ew"), A("https://www.youtube.com/watch?v=4tIECmdu_Ew&ab_channel=UCsnno4X9CoWWW8CzTKCW75Q"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Jazz: () => {
                         y("//www.youtube.com/embed/U8HBZOTZrf0?autoplay=1&mute=1&start=15"), u("Qu\u1EB1ng l\u1EAFm em \u01A1i"), d("https://www.youtube.com/watch?v=5KcBGdXCfP8"), A("https://www.youtube.com/watch?v=XnFOqLeL0zM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
