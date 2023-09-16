@@ -473,7 +473,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"]
+            }), "Call Me"]
         })
     }), e(l.div, {
         animate: {
@@ -495,7 +495,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"]
+            }), "K. - Cigarettes After Sex"]
         })
     }), e(l.div, {
         animate: {
@@ -517,7 +517,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "H\u1EB9n m\u1ED9t mai"]
+            }), "All to myself"]
         })
     }), e(l.div, {
         animate: {
@@ -539,7 +539,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "G\u00E1c l\u1EA1i \u00E2u lo"]
+            }), "I don't wanna live forever"]
         })
     }), e(l.div, {
         animate: {
@@ -561,7 +561,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "C\u00F3 Em Ch\u1EDD"]
+            }), "City of Stars"]
         })
     }), e(l.div, {
         animate: {
@@ -583,7 +583,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "L\u1EA1c v\u00E0o trong m\u01A1"]
+            }), "Misty"]
         })
     }), e(l.div, {
         animate: {
@@ -605,7 +605,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Ch\u1EC9 mu\u1ED1n b\u00EAn em th\u1EADt g\u1EA7n"]
+            }), "Sleep Walk"]
         })
     }), e(l.div, {
         animate: {
@@ -628,7 +628,7 @@ const $ = ({
                 src: g,
                 alt: ""
             }), e("span", {
-                children: "Anh \u0111\u00E1nh r\u01A1i ng\u01B0\u1EDDi y\u00EAu n\u00E0y"
+                children: "I Love You 3000"
             })]
         })
     }), e(l.div, {
@@ -652,7 +652,7 @@ const $ = ({
                 src: g,
                 alt: ""
             }), e("span", {
-                children: "Sao anh ch\u01B0a v\u1EC1"
+                children: "Losing Interest"
             })]
         })
     }), e(l.div, {
@@ -675,7 +675,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "M\u1EB7t tr\u1EDDi c\u1EE7a em"]
+            }), "Hesitation"]
         })
     }), e(l.div, {
         animate: {
